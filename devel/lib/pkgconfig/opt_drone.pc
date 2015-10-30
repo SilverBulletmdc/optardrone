@@ -1,0 +1,8 @@
+prefix=/home/meng/optardrone/devel
+
+Name: opt_drone
+Description: Description of opt_drone
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/meng/optardrone/devel/lib 
+Requires: 

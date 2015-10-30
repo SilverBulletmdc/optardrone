@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "opt_drone")
+set(opt_drone_MAINTAINER "meng <meng@todo.todo>")
+set(opt_drone_DEPRECATED "")
+set(opt_drone_VERSION "0.0.0")
+set(opt_drone_BUILD_DEPENDS )
+set(opt_drone_RUN_DEPENDS )
+set(opt_drone_BUILDTOOL_DEPENDS "catkin")

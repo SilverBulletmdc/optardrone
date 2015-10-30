@@ -1,0 +1,8 @@
+prefix=/home/meng/optardrone/devel
+
+Name: droneTest
+Description: Description of droneTest
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/meng/optardrone/devel/lib 
+Requires: 

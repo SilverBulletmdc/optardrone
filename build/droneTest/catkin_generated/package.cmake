@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "droneTest")
+set(droneTest_MAINTAINER "meng <meng@todo.todo>")
+set(droneTest_DEPRECATED "")
+set(droneTest_VERSION "0.0.0")
+set(droneTest_BUILD_DEPENDS )
+set(droneTest_RUN_DEPENDS )
+set(droneTest_BUILDTOOL_DEPENDS "catkin")

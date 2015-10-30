@@ -1,0 +1,2 @@
+droneTest:opt_drone:test
+-DCATKIN_DEVEL_PREFIX=/home/meng/optardrone/devel -DCMAKE_INSTALL_PREFIX=/home/meng/optardrone/install -G Unix Makefiles
